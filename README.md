@@ -23,4 +23,9 @@ The problem statement is to create a Streamlit application that allows users to 
 11. Next, 10 mysql questions were give for that we need to write query to access the correct solution
 12. All the above process are under streamlit, we are using streamlit for the front end part for user Interface to attract user and to provide a user friendly interface to the user.
 13. Analyse the data and present the data.
-14. 
+
+# Pictures
+![image](https://github.com/AjayKarthekeyan/YouTube_Data_Harvesting/assets/110529232/cbb8bcd8-e159-4b2f-a51d-9e3b41d338b3)
+![image](https://github.com/AjayKarthekeyan/YouTube_Data_Harvesting/assets/110529232/116ffc98-7e20-4b09-8001-fcfd376a7a73)
+![image](https://github.com/AjayKarthekeyan/YouTube_Data_Harvesting/assets/110529232/dfedb67d-f5d3-4c9c-b81b-4bf55458e4e9)
+
